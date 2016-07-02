@@ -1,0 +1,150 @@
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 0
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 3
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 8
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 13
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 24
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 40
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 58
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 76
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:77:00:00:00:00:00:00:00:00:00:00
+ SNAME: .
+ FNAME: .
+OPTION:  53 (  1) DHCP message type         2 (DHCPOFFER)
+--
+    IP: 172.16.0.1 (0:9:f:ab:5f:5) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+    OP: 2 (BOOTPREPLY)
+ HTYPE: 1 (Ethernet)
+  HLEN: 6
+  HOPS: 0
+   XID: 62fae228
+  SECS: 84
+ FLAGS: 7f80
+CIADDR: 0.0.0.0
+YIADDR: 172.16.1.29
+SIADDR: 0.0.0.0
+GIADDR: 0.0.0.0
+CHADDR: 08:00:27:85:0b:

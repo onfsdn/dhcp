@@ -1,0 +1,21 @@
+---
+dp_id: 0x70b3d56cd3a0
+name: "zodiac-fx-1"
+hardware: "ZodiacFX"
+interfaces:
+ 1:
+  native_vlan: 100
+ 2:
+  native_vlan: 100
+ 3:
+  native_vlan: 100
+vlans:
+ 100:
+  name: "100"
+
+acls:
+    1:
+        - rule:
+            ip_dst: "172.0.0.0"
+            dl_type: 0x800
+            allow: 1

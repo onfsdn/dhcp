@@ -6,9 +6,12 @@
 ###########################################################################
 
 import time
+import os
 
 def read_data():
     count = 0
+    IP = ""
+    mac = ""
     flag = "STOP"
     file = open("dhcp_offer_dump.txt",'r')
     while 1:
@@ -17,16 +20,19 @@ def read_data():
         if not line:
             time.sleep(1)
             file.seek(where)
-        else:   
+        else:
             if "--" in line:
-               count = 0
+                count = 0
             if count == 1:
-               IP = line.split()[2][1:-1]
-#               print IP
+                mac = line.split()[5][1:-1]
             if count == 10:
-               mac = line.split()[1]
-#               print mac
-               print IP + " " + mac
-            count += 1
+                IP = line.split()[1]
+                cmd = "./set_conf.sh " + IP
+                if "ff:ff:ff:ff:ff:ff" in mac:
+                    pass
+                else:
+                    os.system(cmd)
+                    print IP + " " + mac
+        count += 1
 
 read_data()

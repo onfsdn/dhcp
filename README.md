@@ -40,16 +40,10 @@ Once it gets the IP and mac it writes it to the yaml file as a rule to faucet
  
 [Intergrate with Enterprise DHCP Server](https://github.com/geethabg/Images/blob/master/DHCP_ACL_Controller.png) 
 
-  ![alt text](DHCP_ACL_Controller.png "Intergrate with Enterprise DHCP Server")
-
- 
 
 ## Deployment
-
+    sudo apt-get install dhcpdump
     git clone https://github.com/onfsdn/dhcp.git
     cd dhcp
     ./start_monitor.sh
-
-
-
 

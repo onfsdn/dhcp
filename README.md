@@ -47,3 +47,6 @@ Once it gets the IP and mac it writes it to the yaml file as a rule to faucet
     cd dhcp
     ./start_monitor.sh
 
+# To-Do list
+- push the config to faucet
+- Add event logging to faucet so that we can clear the ACL rules
